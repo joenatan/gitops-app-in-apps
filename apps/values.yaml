@@ -1,0 +1,7 @@
+namespace: fkd-afds-live
+gitlab:
+  user:  
+  token: 
+spec:
+  destination:
+    name:  in-cluster
